@@ -9,7 +9,7 @@ I used
 
 
 Some screenhots:
-![image width="300" height="200"](https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/fada5caa-8b11-4f8d-a727-eccdcc3fddc2)
+<img width="300" height="200" src= "https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/fada5caa-8b11-4f8d-a727-eccdcc3fddc2">
 
 ![image](https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/b9f13065-66a9-46dd-9603-d63f5d4cbdd2)
 

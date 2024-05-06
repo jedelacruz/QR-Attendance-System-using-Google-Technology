@@ -17,7 +17,6 @@ Some screenhots:
 
 ![image](https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/c38c85f5-d1b1-44e4-9c21-ba010ae637f2)
 
-![image](https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/b9a72eb5-f8d5-49a1-9d21-89775bb62b20)
 
 the code i uploaded is for time in, I also made time out version of this.
 

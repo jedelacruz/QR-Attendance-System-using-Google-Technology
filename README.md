@@ -9,14 +9,14 @@ I used
 
 
 Some screenhots:
-<img width="300" height="200" src= "https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/fada5caa-8b11-4f8d-a727-eccdcc3fddc2">
 
-![image](https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/b9f13065-66a9-46dd-9603-d63f5d4cbdd2)
+<img width="400" height="300" src= "https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/fada5caa-8b11-4f8d-a727-eccdcc3fddc2">
 
-![image](https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/227800f9-06b7-437d-b243-3b49fe5a04a9)
+<img width="400" height="300" src= "https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/b9f13065-66a9-46dd-9603-d63f5d4cbdd2">
 
-![image](https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/c38c85f5-d1b1-44e4-9c21-ba010ae637f2)
+<img width="400" height="300" src= "https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/227800f9-06b7-437d-b243-3b49fe5a04a9">
 
+<img width="400" height="300" src= "https://github.com/jedelacruz/QR-Attendance-System-using-Google-Technology/assets/93860350/c38c85f5-d1b1-44e4-9c21-ba010ae637f2">
 
 the code i uploaded is for time in, I also made time out version of this.
 
